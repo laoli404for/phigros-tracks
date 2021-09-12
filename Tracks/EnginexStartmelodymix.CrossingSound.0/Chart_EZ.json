@@ -1,0 +1,1239 @@
+{
+    "formatVersion": 1,
+    "offset": 0.0,
+    "numOfNotes": 126,
+    "judgeLineList": [
+        {
+            "numOfNotes": 126,
+            "numOfNotesAbove": 126,
+            "numOfNotesBelow": 0,
+            "bpm": 186.0,
+            "speedEvents": [
+                {
+                    "startTime": -9920,
+                    "endTime": 5888,
+                    "value": 1.0
+                },
+                {
+                    "startTime": 5888,
+                    "endTime": 6912,
+                    "value": 0.5
+                },
+                {
+                    "startTime": 6912,
+                    "endTime": 8570880,
+                    "value": 1.0
+                }
+            ],
+            "notesAbove": [
+                {
+                    "type": 1,
+                    "time": 256,
+                    "positionX": -0.31578919291496279,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 2.5806450843811037
+                },
+                {
+                    "type": 1,
+                    "time": 320,
+                    "positionX": -2.421052932739258,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 3.225806474685669
+                },
+                {
+                    "type": 1,
+                    "time": 368,
+                    "positionX": 2.2631568908691408,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 3.7096774578094484
+                },
+                {
+                    "type": 1,
+                    "time": 448,
+                    "positionX": -3.0175440311431886,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 4.516129016876221
+                },
+                {
+                    "type": 1,
+                    "time": 512,
+                    "positionX": 1.5964909791946412,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 5.161290168762207
+                },
+                {
+                    "type": 1,
+                    "time": 576,
+                    "positionX": -1.5263160467147828,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 5.806451797485352
+                },
+                {
+                    "type": 1,
+                    "time": 624,
+                    "positionX": -4.807017803192139,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 6.290322780609131
+                },
+                {
+                    "type": 1,
+                    "time": 704,
+                    "positionX": 2.0,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 7.096774101257324
+                },
+                {
+                    "type": 1,
+                    "time": 768,
+                    "positionX": -0.0701751708984375,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 7.7419352531433109
+                },
+                {
+                    "type": 1,
+                    "time": 832,
+                    "positionX": -3.0175440311431886,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 8.387096405029297
+                },
+                {
+                    "type": 1,
+                    "time": 880,
+                    "positionX": 2.3859639167785646,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 8.870967864990235
+                },
+                {
+                    "type": 1,
+                    "time": 960,
+                    "positionX": -2.701754093170166,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 9.677419662475586
+                },
+                {
+                    "type": 1,
+                    "time": 1024,
+                    "positionX": 2.0701749324798586,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 10.322580337524414
+                },
+                {
+                    "type": 1,
+                    "time": 1088,
+                    "positionX": -1.5964909791946412,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 10.967741966247559
+                },
+                {
+                    "type": 1,
+                    "time": 1152,
+                    "positionX": 1.1578940153121949,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 11.612903594970704
+                },
+                {
+                    "type": 1,
+                    "time": 1216,
+                    "positionX": 0.1403512954711914,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 12.258064270019532
+                },
+                {
+                    "type": 2,
+                    "time": 1280,
+                    "positionX": -1.7543859481811524,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 12.903225898742676
+                },
+                {
+                    "type": 2,
+                    "time": 1296,
+                    "positionX": -1.8421059846878052,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 13.064516067504883
+                },
+                {
+                    "type": 2,
+                    "time": 1328,
+                    "positionX": 1.8947360515594483,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 13.387096405029297
+                },
+                {
+                    "type": 2,
+                    "time": 1344,
+                    "positionX": 1.8947360515594483,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 13.54838752746582
+                },
+                {
+                    "type": 2,
+                    "time": 1376,
+                    "positionX": -1.1403499841690064,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 13.870967864990235
+                },
+                {
+                    "type": 2,
+                    "time": 1392,
+                    "positionX": -1.0877189636230469,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 14.032258033752442
+                },
+                {
+                    "type": 2,
+                    "time": 1536,
+                    "positionX": 1.5789469480514527,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 15.483870506286621
+                },
+                {
+                    "type": 2,
+                    "time": 1552,
+                    "positionX": 1.6491219997406006,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 15.645161628723145
+                },
+                {
+                    "type": 2,
+                    "time": 1584,
+                    "positionX": -1.9824559688568116,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 15.967741966247559
+                },
+                {
+                    "type": 2,
+                    "time": 1600,
+                    "positionX": -1.9824559688568116,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 16.129032135009767
+                },
+                {
+                    "type": 2,
+                    "time": 1632,
+                    "positionX": -3.473684072494507,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 16.45161247253418
+                },
+                {
+                    "type": 2,
+                    "time": 1648,
+                    "positionX": -3.5438590049743654,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 16.612903594970704
+                },
+                {
+                    "type": 1,
+                    "time": 1792,
+                    "positionX": 0.2982464134693146,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 18.064516067504884
+                },
+                {
+                    "type": 1,
+                    "time": 1856,
+                    "positionX": -2.298245906829834,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 18.70967674255371
+                },
+                {
+                    "type": 1,
+                    "time": 1904,
+                    "positionX": 2.8947360515594484,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 19.19354820251465
+                },
+                {
+                    "type": 1,
+                    "time": 1952,
+                    "positionX": -1.4912279844284058,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 19.677419662475587
+                },
+                {
+                    "type": 1,
+                    "time": 2048,
+                    "positionX": 2.017544984817505,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 20.645160675048829
+                },
+                {
+                    "type": 1,
+                    "time": 2112,
+                    "positionX": -1.5087720155715943,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 21.29032325744629
+                },
+                {
+                    "type": 1,
+                    "time": 2160,
+                    "positionX": 2.6140360832214357,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 21.774192810058595
+                },
+                {
+                    "type": 1,
+                    "time": 2272,
+                    "positionX": -3.421052932739258,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 22.90322494506836
+                },
+                {
+                    "type": 1,
+                    "time": 2304,
+                    "positionX": 0.40350818634033205,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 23.225807189941408
+                },
+                {
+                    "type": 1,
+                    "time": 2368,
+                    "positionX": 1.666666030883789,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 23.870967864990236
+                },
+                {
+                    "type": 1,
+                    "time": 2400,
+                    "positionX": -0.8245611190795898,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 24.19354820251465
+                },
+                {
+                    "type": 1,
+                    "time": 2560,
+                    "positionX": 0.9473686218261719,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 25.80645179748535
+                },
+                {
+                    "type": 1,
+                    "time": 2624,
+                    "positionX": -1.929824948310852,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 26.45161247253418
+                },
+                {
+                    "type": 1,
+                    "time": 2688,
+                    "positionX": 0.5263156890869141,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 27.09677505493164
+                },
+                {
+                    "type": 1,
+                    "time": 2752,
+                    "positionX": -1.9122810363769532,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 27.74193572998047
+                },
+                {
+                    "type": 1,
+                    "time": 2816,
+                    "positionX": 0.8070182800292969,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 28.387096405029298
+                },
+                {
+                    "type": 1,
+                    "time": 2848,
+                    "positionX": -2.5087718963623049,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 28.70967674255371
+                },
+                {
+                    "type": 1,
+                    "time": 2912,
+                    "positionX": 3.2807021141052248,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 29.354839324951173
+                },
+                {
+                    "type": 1,
+                    "time": 2976,
+                    "positionX": -3.6666669845581056,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 30.0
+                },
+                {
+                    "type": 1,
+                    "time": 3040,
+                    "positionX": 2.8947360515594484,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 30.645160675048829
+                },
+                {
+                    "type": 1,
+                    "time": 3104,
+                    "positionX": -1.0350879430770875,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 31.29032325744629
+                },
+                {
+                    "type": 1,
+                    "time": 3168,
+                    "positionX": 0.6666659712791443,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 31.935483932495118
+                },
+                {
+                    "type": 1,
+                    "time": 3232,
+                    "positionX": 5.403508186340332,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 32.58064651489258
+                },
+                {
+                    "type": 1,
+                    "time": 3296,
+                    "positionX": 0.3508777916431427,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 33.225807189941409
+                },
+                {
+                    "type": 1,
+                    "time": 3328,
+                    "positionX": 2.5614030361175539,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 33.54838562011719
+                },
+                {
+                    "type": 1,
+                    "time": 3360,
+                    "positionX": -2.0175440311431886,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 33.870967864990237
+                },
+                {
+                    "type": 1,
+                    "time": 3424,
+                    "positionX": 0.15789510309696198,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 34.51612854003906
+                },
+                {
+                    "type": 1,
+                    "time": 3488,
+                    "positionX": -3.2105259895324709,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 35.16128921508789
+                },
+                {
+                    "type": 1,
+                    "time": 3552,
+                    "positionX": -2.2280690670013429,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 35.80644989013672
+                },
+                {
+                    "type": 1,
+                    "time": 3584,
+                    "positionX": 1.2631590366363526,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 36.129032135009769
+                },
+                {
+                    "type": 1,
+                    "time": 3648,
+                    "positionX": 1.0,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 36.774192810058597
+                },
+                {
+                    "type": 1,
+                    "time": 3712,
+                    "positionX": -1.5964909791946412,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 37.41935348510742
+                },
+                {
+                    "type": 1,
+                    "time": 3776,
+                    "positionX": -1.5614039897918702,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 38.064517974853519
+                },
+                {
+                    "type": 1,
+                    "time": 3840,
+                    "positionX": 1.1754380464553834,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 38.709678649902347
+                },
+                {
+                    "type": 1,
+                    "time": 3968,
+                    "positionX": -0.47368431091308596,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 40.0
+                },
+                {
+                    "type": 1,
+                    "time": 4096,
+                    "positionX": 1.7894740104675294,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 41.290321350097659
+                },
+                {
+                    "type": 1,
+                    "time": 4224,
+                    "positionX": 0.2105254977941513,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 42.58064651489258
+                },
+                {
+                    "type": 1,
+                    "time": 4352,
+                    "positionX": -0.2807025909423828,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 43.870967864990237
+                },
+                {
+                    "type": 1,
+                    "time": 4480,
+                    "positionX": -3.82456111907959,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 45.16128921508789
+                },
+                {
+                    "type": 1,
+                    "time": 4608,
+                    "positionX": -0.5614032745361328,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 46.45161437988281
+                },
+                {
+                    "type": 1,
+                    "time": 4736,
+                    "positionX": -3.0175440311431886,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 47.74193572998047
+                },
+                {
+                    "type": 1,
+                    "time": 4864,
+                    "positionX": 0.38596341013908389,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 49.032257080078128
+                },
+                {
+                    "type": 1,
+                    "time": 4928,
+                    "positionX": -2.631577968597412,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 49.67741775512695
+                },
+                {
+                    "type": 1,
+                    "time": 4992,
+                    "positionX": 1.2105259895324708,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 50.32258224487305
+                },
+                {
+                    "type": 1,
+                    "time": 5056,
+                    "positionX": -0.8421049118041992,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 50.967742919921878
+                },
+                {
+                    "type": 1,
+                    "time": 5120,
+                    "positionX": 1.315788984298706,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 51.6129035949707
+                },
+                {
+                    "type": 1,
+                    "time": 5184,
+                    "positionX": -2.2105259895324709,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 52.25806427001953
+                },
+                {
+                    "type": 1,
+                    "time": 5248,
+                    "positionX": -0.9122809767723084,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 52.90322494506836
+                },
+                {
+                    "type": 1,
+                    "time": 5312,
+                    "positionX": -2.298245906829834,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 53.54838562011719
+                },
+                {
+                    "type": 1,
+                    "time": 5376,
+                    "positionX": 1.403507947921753,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 54.19355010986328
+                },
+                {
+                    "type": 1,
+                    "time": 5440,
+                    "positionX": -0.26315781474113467,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 54.83871078491211
+                },
+                {
+                    "type": 1,
+                    "time": 5504,
+                    "positionX": -2.859649896621704,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 55.48387145996094
+                },
+                {
+                    "type": 1,
+                    "time": 5568,
+                    "positionX": 2.1754379272460939,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 56.129032135009769
+                },
+                {
+                    "type": 1,
+                    "time": 5632,
+                    "positionX": 1.1578940153121949,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 56.774192810058597
+                },
+                {
+                    "type": 1,
+                    "time": 5696,
+                    "positionX": -0.05263233184814453,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 57.41935348510742
+                },
+                {
+                    "type": 1,
+                    "time": 5760,
+                    "positionX": -1.1929819583892823,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 58.064517974853519
+                },
+                {
+                    "type": 1,
+                    "time": 5824,
+                    "positionX": -2.649122953414917,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 58.709678649902347
+                },
+                {
+                    "type": 1,
+                    "time": 5888,
+                    "positionX": 0.2105254977941513,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 59.35483932495117
+                },
+                {
+                    "type": 1,
+                    "time": 5952,
+                    "positionX": 0.15789510309696198,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 59.67741775512695
+                },
+                {
+                    "type": 1,
+                    "time": 6016,
+                    "positionX": -1.2105259895324708,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 60.0
+                },
+                {
+                    "type": 1,
+                    "time": 6080,
+                    "positionX": -1.5789469480514527,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 60.32258224487305
+                },
+                {
+                    "type": 1,
+                    "time": 6144,
+                    "positionX": -0.24561409652233125,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 60.64516067504883
+                },
+                {
+                    "type": 1,
+                    "time": 6208,
+                    "positionX": 1.403507947921753,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 60.967742919921878
+                },
+                {
+                    "type": 1,
+                    "time": 6272,
+                    "positionX": -1.3333330154418946,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 61.290321350097659
+                },
+                {
+                    "type": 1,
+                    "time": 6336,
+                    "positionX": 0.5614042282104492,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 61.6129035949707
+                },
+                {
+                    "type": 1,
+                    "time": 6400,
+                    "positionX": -1.649122953414917,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 61.935482025146487
+                },
+                {
+                    "type": 1,
+                    "time": 6464,
+                    "positionX": -2.701754093170166,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 62.25806427001953
+                },
+                {
+                    "type": 1,
+                    "time": 6528,
+                    "positionX": 1.2105259895324708,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 62.58064651489258
+                },
+                {
+                    "type": 1,
+                    "time": 6592,
+                    "positionX": -1.4210530519485474,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 62.90322494506836
+                },
+                {
+                    "type": 1,
+                    "time": 6656,
+                    "positionX": -0.15789510309696198,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 63.225807189941409
+                },
+                {
+                    "type": 1,
+                    "time": 6720,
+                    "positionX": -0.7543858885765076,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 63.54838562011719
+                },
+                {
+                    "type": 1,
+                    "time": 6784,
+                    "positionX": 0.08771896362304688,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 63.870967864990237
+                },
+                {
+                    "type": 1,
+                    "time": 6848,
+                    "positionX": 0.03508758917450905,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 64.19355010986328
+                },
+                {
+                    "type": 1,
+                    "time": 6912,
+                    "positionX": 1.7017550468444825,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 64.51612854003906
+                },
+                {
+                    "type": 1,
+                    "time": 6944,
+                    "positionX": -2.473684072494507,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 64.83870697021485
+                },
+                {
+                    "type": 1,
+                    "time": 7008,
+                    "positionX": 3.035088062286377,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 65.48387145996094
+                },
+                {
+                    "type": 1,
+                    "time": 7040,
+                    "positionX": -2.2105259895324709,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 65.80644989013672
+                },
+                {
+                    "type": 1,
+                    "time": 7072,
+                    "positionX": 3.1228079795837404,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 66.12903594970703
+                },
+                {
+                    "type": 1,
+                    "time": 7168,
+                    "positionX": -2.087718963623047,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 67.09677124023438
+                },
+                {
+                    "type": 1,
+                    "time": 7232,
+                    "positionX": 2.3859639167785646,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 67.74193572998047
+                },
+                {
+                    "type": 1,
+                    "time": 7296,
+                    "positionX": -0.12280649691820145,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 68.38710021972656
+                },
+                {
+                    "type": 1,
+                    "time": 7328,
+                    "positionX": 4.052631855010986,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 68.70967864990235
+                },
+                {
+                    "type": 1,
+                    "time": 7424,
+                    "positionX": -1.2105259895324708,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 69.67742156982422
+                },
+                {
+                    "type": 1,
+                    "time": 7456,
+                    "positionX": 2.05263090133667,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 70.0
+                },
+                {
+                    "type": 1,
+                    "time": 7552,
+                    "positionX": 2.5789480209350588,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 70.96774291992188
+                },
+                {
+                    "type": 1,
+                    "time": 7584,
+                    "positionX": -1.0175440311431885,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 71.29032135009766
+                },
+                {
+                    "type": 1,
+                    "time": 7680,
+                    "positionX": 2.982455015182495,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 72.25806427001953
+                },
+                {
+                    "type": 1,
+                    "time": 7728,
+                    "positionX": -0.017543790861964227,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 72.74193572998047
+                },
+                {
+                    "type": 1,
+                    "time": 7776,
+                    "positionX": -2.9824559688568117,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 73.2258071899414
+                },
+                {
+                    "type": 1,
+                    "time": 7808,
+                    "positionX": 0.26315781474113467,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 73.54838562011719
+                },
+                {
+                    "type": 1,
+                    "time": 7936,
+                    "positionX": 1.0526319742202759,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 74.83870697021485
+                },
+                {
+                    "type": 1,
+                    "time": 8032,
+                    "positionX": 1.368422031402588,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 75.80644989013672
+                },
+                {
+                    "type": 1,
+                    "time": 8192,
+                    "positionX": -1.1754390001296998,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 77.41935729980469
+                },
+                {
+                    "type": 1,
+                    "time": 8288,
+                    "positionX": -0.9824562072753906,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 78.38710021972656
+                },
+                {
+                    "type": 1,
+                    "time": 8448,
+                    "positionX": 0.5614042282104492,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 80.0
+                },
+                {
+                    "type": 1,
+                    "time": 8544,
+                    "positionX": 0.8771914839744568,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 80.96774291992188
+                },
+                {
+                    "type": 1,
+                    "time": 8704,
+                    "positionX": -1.8596489429473878,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 82.58064270019531
+                },
+                {
+                    "type": 1,
+                    "time": 8800,
+                    "positionX": -1.929824948310852,
+                    "holdTime": 0,
+                    "speed": 1.0,
+                    "floorPosition": 83.54838562011719
+                }
+            ],
+            "notesBelow": [],
+            "judgeLineDisappearEvents": [
+                {
+                    "startTime": -9920,
+                    "endTime": 8570880,
+                    "start": 1,
+                    "end": 1
+                }
+            ],
+            "judgeLineMoveEvents": [
+                {
+                    "startTime": -9920,
+                    "endTime": 2816,
+                    "start": 440260,
+                    "end": 440260
+                },
+                {
+                    "startTime": 2816,
+                    "endTime": 3328,
+                    "start": 440260,
+                    "end": 220260
+                },
+                {
+                    "startTime": 3328,
+                    "endTime": 3840,
+                    "start": 220260,
+                    "end": 440260
+                },
+                {
+                    "startTime": 3840,
+                    "endTime": 7936,
+                    "start": 440260,
+                    "end": 440260
+                },
+                {
+                    "startTime": 7936,
+                    "endTime": 8448,
+                    "start": 440260,
+                    "end": 440104
+                },
+                {
+                    "startTime": 8448,
+                    "endTime": 8960,
+                    "start": 440104,
+                    "end": 440260
+                },
+                {
+                    "startTime": 8960,
+                    "endTime": 8570880,
+                    "start": 440260,
+                    "end": 440260
+                }
+            ],
+            "judgeLineRotateEvents": [
+                {
+                    "startTime": -9920,
+                    "endTime": 1280,
+                    "start": 0,
+                    "end": 0
+                },
+                {
+                    "startTime": 1280,
+                    "endTime": 1312,
+                    "start": 0,
+                    "end": 11
+                },
+                {
+                    "startTime": 1312,
+                    "endTime": 1328,
+                    "start": 11,
+                    "end": 11
+                },
+                {
+                    "startTime": 1328,
+                    "endTime": 1360,
+                    "start": 11,
+                    "end": 22
+                },
+                {
+                    "startTime": 1360,
+                    "endTime": 1376,
+                    "start": 22,
+                    "end": 22
+                },
+                {
+                    "startTime": 1376,
+                    "endTime": 1408,
+                    "start": 22,
+                    "end": 0
+                },
+                {
+                    "startTime": 1408,
+                    "endTime": 1536,
+                    "start": 0,
+                    "end": 0
+                },
+                {
+                    "startTime": 1536,
+                    "endTime": 1568,
+                    "start": 0,
+                    "end": -11
+                },
+                {
+                    "startTime": 1568,
+                    "endTime": 1584,
+                    "start": -10,
+                    "end": -11
+                },
+                {
+                    "startTime": 1584,
+                    "endTime": 1616,
+                    "start": -10,
+                    "end": -22
+                },
+                {
+                    "startTime": 1616,
+                    "endTime": 1632,
+                    "start": -21,
+                    "end": -22
+                },
+                {
+                    "startTime": 1632,
+                    "endTime": 1664,
+                    "start": -21,
+                    "end": 0
+                },
+                {
+                    "startTime": 1664,
+                    "endTime": 3840,
+                    "start": 0,
+                    "end": 0
+                },
+                {
+                    "startTime": 3840,
+                    "endTime": 3968,
+                    "start": 0,
+                    "end": 20
+                },
+                {
+                    "startTime": 3968,
+                    "endTime": 4096,
+                    "start": 20,
+                    "end": 20
+                },
+                {
+                    "startTime": 4096,
+                    "endTime": 4224,
+                    "start": 20,
+                    "end": 40
+                },
+                {
+                    "startTime": 4224,
+                    "endTime": 4352,
+                    "start": 40,
+                    "end": 40
+                },
+                {
+                    "startTime": 4352,
+                    "endTime": 4480,
+                    "start": 40,
+                    "end": 60
+                },
+                {
+                    "startTime": 4480,
+                    "endTime": 4608,
+                    "start": 60,
+                    "end": 60
+                },
+                {
+                    "startTime": 4608,
+                    "endTime": 4736,
+                    "start": 60,
+                    "end": 80
+                },
+                {
+                    "startTime": 4736,
+                    "endTime": 4864,
+                    "start": 80,
+                    "end": 0
+                },
+                {
+                    "startTime": 4864,
+                    "endTime": 5888,
+                    "start": 0,
+                    "end": 0
+                },
+                {
+                    "startTime": 5888,
+                    "endTime": 6912,
+                    "start": 0,
+                    "end": 360
+                },
+                {
+                    "startTime": 6912,
+                    "endTime": 8570880,
+                    "start": 0,
+                    "end": 0
+                }
+            ]
+        }
+    ]
+}
